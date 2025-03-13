@@ -5,6 +5,7 @@ This project is a university application system for Sudanese universities, integ
 ## Supabase Setup
 
 1. Create a Supabase project at [https://supabase.com](https://supabase.com)
+
 2. Set up the database schema by running the SQL script in `supabase/schema.sql`
 3. Get your Supabase URL and anon key from the project settings
 4. Add the following environment variables to your project:
